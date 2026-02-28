@@ -1,67 +1,61 @@
 # 👋 Hi, I'm Elizabeth Huarcaya Contreras
 
 💻 Software Engineer | Full Stack Developer  
-🚀 Building scalable and modern web applications  
+🚀 Passionate about building scalable, efficient, and user-centered digital solutions  
 📍 Peru  
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me
 
-I am a Software Engineer and Full Stack Developer with experience building modern web applications.  
-I focus on creating functional, well-structured, and scalable solutions.
+I am a Software Engineer and Full Stack Developer focused on designing and developing modern web applications that combine performance, scalability, and intuitive user experiences.
 
-I am part of the Arxatec organization, contributing to innovative technology projects.
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Frontend
-- React
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-
-### ⚙️ Backend
-- PHP
-- Python (Flask)
-- Java
-
-### 🗄 Databases
-- MySQL
-- PostgreSQL
-
-### 🔧 Tools
-- Git
-- GitHub
-- VS Code
+I specialize in transforming ideas into functional digital products through clean architecture, structured code, and best development practices. I am committed to continuous learning and constantly improving my technical and problem-solving skills.
 
 ---
 
-## 📌 Featured Projects
+##  Professional Values
 
-🔹 **Personal Portfolio**  
-Built with React to showcase my projects and development skills.
-
-🔹 **Inventory Management System**  
-Developed with TypeScript for product and stock management.
-
----
-
-## 📈 Currently
-
-- Improving backend architecture skills  
-- Working on Full Stack projects  
-- Expanding my knowledge in Artificial Intelligence  
+- 🚀 Innovation through technology  
+- 🤝 Collaboration and teamwork  
+- 📚 Continuous learning and growth  
+- 🎨 UX/UI-focused development  
+- 🧩 Clean, maintainable, and scalable code  
 
 ---
 
-## 📫 Contact
+##  Tech Stack
 
-🌐 Portfolio:  
-https://elizabeth207.github.io/Mi-Portafolio-Profesional/
+###  Frontend
+- HTML5  
+- CSS3  
+- JavaScript  
+- React  
+- Vue.js  
+- Bootstrap  
+- Sass  
 
-📧 Email:  
-huarcayacontreraselizabeth@gmail.com
+### Backend
+- Node.js  
+- Python  
+- PHP  
+- Java  
+- Express.js  
+- Laravel  
+
+###  Databases
+- MySQL  
+- PostgreSQL  
+- MongoDB  
+- Firebase  
+- SQLite  
+
+### Tools & Practices
+- Git  
+- GitHub  
+- Docker   
+- Responsive Design
+- Security & Performance Optimization  
+
+---
+
