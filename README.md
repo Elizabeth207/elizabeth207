@@ -30,7 +30,7 @@ Strong interest in **Artificial Intelligence, Data Science, scalable backend ser
 
 ## Engineering Profile
 
-```python id="q92mfa"
+```python id="v5n2a1"
 class EngineerProfile:
     name = "Elizabeth Huarcaya Contreras"
     role = "Software Engineer | Full Stack Developer"
@@ -59,3 +59,70 @@ class EngineerProfile:
         "Scalable full stack systems"
     ]
 ```
+
+---
+
+## Core Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap,tailwind,sass" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,java,laravel,flask,django" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,sqlite" />
+</p>
+
+### Cloud • DevOps • Hosting
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,docker,github" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat"/>
+  <img src="https://img.shields.io/badge/Microservices-111827?style=flat"/>
+</p>
+
+### Data Science • AI
+
+<p>
+  <img src="https://img.shields.io/badge/Data_Science-2563EB?style=flat"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=flat"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+</p>
+
+### IT • Security • Performance
+
+<p>
+  <img src="https://img.shields.io/badge/IT_Infrastructure-1E293B?style=flat"/>
+  <img src="https://img.shields.io/badge/API_Integration-0EA5E9?style=flat"/>
+  <img src="https://img.shields.io/badge/System_Design-475569?style=flat"/>
+  <img src="https://img.shields.io/badge/Security-DC2626?style=flat"/>
+  <img src="https://img.shields.io/badge/Performance-16A34A?style=flat"/>
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elizabeth207&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elizabeth207&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elizabeth207&theme=tokyonight&hide_border=true" />
+</p>
